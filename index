@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <title>Toronto Time</title>
+</head>
+<body>
+
+    <center>
+        <h1>Toronto Time</h1>
+    </center>
+
+    <br><br>
+
+    <center>
+        <img src="https://via.placeholder.com/300" alt="Image 404">
+    </center>
+
+    <p>Pas de journal.</p>
+
+    <br><br>
+
+    <ul>
+        <li>Léandre Bernardi</li>
+    </ul>
+
+    <br>
+
+    <p>Un autre paragraphe juste avant la dernière image.</p>
+
+    <img src="https://via.placeholder.com/150" alt="Petite image">
+
+</body>
+</html>
