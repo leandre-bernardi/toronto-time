@@ -1,0 +1,9 @@
+* {
+     box-sizing: border-box;
+ }
+    
+    .colonne {
+      float : left;
+      width : 30%;
+      padding : 10px;
+  }
